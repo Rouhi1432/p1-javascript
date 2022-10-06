@@ -14,3 +14,10 @@ let answer = num* 5
 console.log(answer);
 }
 multyplyByeFive(800)
+
+
+function calculateMinutes(num){
+  let answer = num / 60
+  console.log(answer);
+}
+calculateMinutes(3600)
